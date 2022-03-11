@@ -4,4 +4,4 @@
 
 - 📦 Check out my work, https://www.npmjs.com/~luctst
 - 💬 Ask me about, Anything
-- 📫 How to reach me, lucas.tostee@gmail.com
+- 📫 How to reach me, lucas.tostee.dev@gmail.com
